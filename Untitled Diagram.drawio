@@ -1,9 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="wiHIIT0iv7PbtbdRAfoR">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6io6YEuYEZrszhs8v_QH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6io6YEuYEZrszhs8v_QH-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6io6YEuYEZrszhs8v_QH-1" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;ol style=&quot;direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in; padding-left: 15px;&quot; type=&quot;1&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt; &lt;li lang=&quot;en-US&quot; style=&quot;text-align: justify; font-family: Calibri; font-size: 11pt; margin-top: 0px; margin-bottom: 0px; vertical-align: middle;&quot; value=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;General Requirement&lt;/span&gt;&lt;/li&gt; &lt;li lang=&quot;en-US&quot; style=&quot;text-align: justify; font-family: Calibri; font-size: 11pt; margin-top: 0px; margin-bottom: 0px; vertical-align: middle;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;Specific Requirement&lt;/span&gt;&lt;/li&gt; &lt;li lang=&quot;en-US&quot; style=&quot;text-align: justify; font-family: Calibri; font-size: 11pt; margin-top: 0px; margin-bottom: 0px; vertical-align: middle;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;Components Architecture&lt;/span&gt;&lt;/li&gt;&lt;li lang=&quot;en-US&quot; style=&quot;text-align: justify; font-family: Calibri; font-size: 11pt; margin-top: 0px; margin-bottom: 0px; vertical-align: middle;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;span style=&quot;&quot;&gt;Data Entities&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li lang=&quot;en-US&quot; style=&quot;text-align: justify; font-family: Calibri; font-size: 11pt; margin-top: 0px; margin-bottom: 0px; vertical-align: middle;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;Data API&lt;/span&gt;&lt;/li&gt;&lt;li lang=&quot;en-US&quot; style=&quot;text-align: justify; font-family: Calibri; font-size: 11pt; margin-top: 0px; margin-bottom: 0px; vertical-align: middle;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;Infinite Scroll&lt;/span&gt;&lt;/li&gt;&lt;li lang=&quot;en-US&quot; style=&quot;text-align: justify; font-family: Calibri; font-size: 11pt; margin-top: 0px; margin-bottom: 0px; vertical-align: middle;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;Optimisation&lt;/span&gt;&lt;/li&gt;&lt;li lang=&quot;en-US&quot; style=&quot;text-align: justify; font-family: Calibri; font-size: 11pt; margin-top: 0px; margin-bottom: 0px; vertical-align: middle;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;Accessibility&lt;/span&gt;&lt;/li&gt;&lt;br&gt; &lt;/ol&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;ol style=&quot;direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in; font-family: Calibri; font-size: 11pt;&quot; type=&quot;1&quot;&gt;&lt;br&gt;&lt;/ol&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6io6YEuYEZrszhs8v_QH-5" value="&lt;ol style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Infinite Scrollable news feed where stories appear based on subscription&lt;/li&gt;&lt;li&gt;User can share story&lt;/li&gt;&lt;li&gt;User can post story with comments, photos, videos&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6io6YEuYEZrszhs8v_QH-6" value="Requirements" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6io6YEuYEZrszhs8v_QH-8" value="&lt;ol style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;We want features for range of devices&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;We want feature to be accessible by person with disabilities&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="160" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
